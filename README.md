@@ -1,5 +1,7 @@
 #Портфолио
-![image info](/img/ava.png)
+
+<img src="/img/ava.png" alt= “” width="300" height="400">
+
 Ольга
 
 Учитель информатики и математики 
